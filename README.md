@@ -1,2 +1,1 @@
-# ghostis-kurs-course
-Kurs_1
+Helo_World
